@@ -2,3 +2,5 @@
 
  Git add
 Git commit
+
+Git status
