@@ -4,3 +4,5 @@
 Git commit
 
 Git status
+
+Git diff
